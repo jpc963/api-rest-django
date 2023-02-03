@@ -28,3 +28,5 @@ Após instalar as dependências, execute os comandos abaixo para criar os veícu
 
 - py criar_clientes.py
 - py criar_veiculos.py
+
+Entre no admin do Django e verifique se os dados foram criados.
